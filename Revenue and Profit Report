@@ -1,0 +1,5 @@
+I created the sales analysis report. Page one of this report shows the grass, net revenues, and profits from department stores in the United States between 2017-05-01 and 2020-01-25. 
+In this report, the user is able to view the top three products California, Florida, and Arizona, in terms of net or gross revenue or profit value over the past 3,7,30 days, or one year, or all time.
+The second page of this report displays various visuals of net and gross revenues and profits. The results can be viewed for the top 3,5,10,20,50 or all products. In addition, the visuals can be filtered by quarter.
+The report is published on power BI service. You can find the link below:
+https://app.powerbi.com/groups/me/reports/a42c00c8-5515-435d-ac81-0e84cf75ecfe/ReportSection14da34a09b84e16c0732?experience=power-bi
